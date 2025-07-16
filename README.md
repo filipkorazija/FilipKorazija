@@ -98,21 +98,6 @@
 
 ---
 
-<h3 align="center">💻 Currently Working On 💻</h3>
-
-<p align="center">
-  I'm currently channeling my energy into developing my new **Personal Portfolio Website** using Next.js and CSS. <br />
-  This project showcases my skills in:
-  <ul>
-    <li>✨ Building responsive UIs with a minimalist design aesthetic.</li>
-    <li>✨ Implementing engaging animations and interactive elements.</li>
-    <li>✨ Crafting a clean and maintainable codebase.</li>
-  </ul>
-  You can track my progress here: <a href="https://github.com/filipkorazija/portfolio">[Portfolio Repository]</a>
-</p>
-
----
-
 <h3 align="center">🌟 GitHub Stats & Activity 🌟</h3>
 
 <p align="center">
